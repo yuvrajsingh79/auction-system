@@ -7,3 +7,6 @@ This is an Auction System built using Golang and MySql
 
 ### Cloning the project
 `git clone https://github.com/yuvrajsingh79/auction-system.git`
+
+
+<img src='https://bettercodehub.com/edge/badge/yuvrajsingh79/auction-system?branch=master'>
